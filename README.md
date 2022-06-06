@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumeyraAltuntas
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning Front End Development.
-- 💞️ I’m looking to collaborate on open soruce projects.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me my linkedin page.
 
 <!---
